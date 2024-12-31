@@ -1,2 +1,0 @@
-bash test.sh /p/scratch/westai0008/zhang57/nanoGPT-neo/output/out_GPT_cp2_v4_1_kvonly_hf_123m_Opt_adamw_LR_0.0006_D_openwebtext_T_49.15B_time_20241227_012902_jobid_13376717 GPT_cp2_v4_1_kvonly_hf
-bash test.sh /p/scratch/westai0008/zhang57/nanoGPT-neo/output/out_GPT_cp2_v4_1_kvonly_hf_123m_Opt_adamw_LR_0.0006_D_openwebtext_T_49.15B_time_20241227_012902_jobid_13376717 GPT_cp2_v4_1_kvonly_hf 2

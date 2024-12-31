@@ -1,5 +1,7 @@
 # lm-evaluation-harness
-First edit the test.sh:
+First: pip install -e .
+
+Then edit the test.sh:
  - **TARGET_MODEL_DEFINITION=./lm_eval/models/new_model.py** 
    - change it as /YOUR_DIR_TO_LM_EVALUATION_HARNESS_REPOSITORY/lm_eval/models/new_model.py for your directory to lm-evaluation-harness repo
  - **cat /p/scratch/westai0008/zhang57/nanoGPT-neo/model/$MODEL_DEFINITION.py > $TARGET_MODEL_DEFINITION**
